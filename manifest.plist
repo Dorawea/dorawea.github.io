@@ -33,7 +33,7 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.onion.CungWei</string>  
+                <string>com.tencent.wechat</string>  
                 <key>bundle-version</key>  
                 <string>8.0.44</string>  
                 <key>kind</key>  
