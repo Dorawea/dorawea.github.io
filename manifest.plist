@@ -33,9 +33,9 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.onion.CungWei</string>  
+                <string>com.zhiyun.xgkeyboard</string>  
                 <key>bundle-version</key>  
-                <string>8.0.49</string>  
+                <string>1.2.1</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
