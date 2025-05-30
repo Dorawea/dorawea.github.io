@@ -33,13 +33,13 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.zhiyun.xgkeyboard</string>  
+                <string>com.tencent.qy.xin</string>  
                 <key>bundle-version</key>  
-                <string>1.2.5</string>  
+                <string>8.0.59</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>dream功能测试</string>  
+                <string>微信功能测试</string>  
             </dict>  
         </dict>  
     </array>  
