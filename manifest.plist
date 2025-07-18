@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-					<string>http://192.168.0.131:8000/Target.ipa</string>  
+					<string>http://192.168.0.107:8000/Target.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -35,7 +35,7 @@
                 <key>bundle-identifier</key>  
                 <string>com.onion.CungWei</string>  
                 <key>bundle-version</key>  
-                <string>8.0.60</string>  
+                <string>8.0.61</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
